@@ -67,6 +67,22 @@ MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY
 ## 🔐 Security
 
 The Google Maps API key is configured locally and should never be committed to the public repository.
+## 📸 Application Screenshots
+
+### 🏠 Home
+![Home Screen](screenshots/home.jpg)
+
+### 📍 GPS Tracking
+![GPS Tracking](screenshots/tracking.jpg)
+
+### 📋 Activity History
+![Activity History](screenshots/history.jpg)
+
+### 📊 Statistics
+![Statistics](screenshots/statistics.jpg)
+
+### 👤 User Profile
+![User Profile](screenshots/profile.jpg)
 
 ## 👩‍💻 Author
 
